@@ -1,2 +1,2 @@
 # AI-MLprojects 
-I have made this repository to hold all my personal projects in ML/AI.
+I have made this repository to hold all my personal mini-projects/experiments/learning kernels in ML/AI.
